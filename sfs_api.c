@@ -1,3 +1,5 @@
+/* Simple File System API by Alex Liu */
+
 #include <fuse.h>
 #include <stdio.h>
 #include <stdlib.h>
